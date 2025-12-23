@@ -137,7 +137,7 @@ analyzeBtn.addEventListener('click', async () => {
 
                 <div class="disclaimer-box">
                     <strong>⚠️ Disclaimer:</strong>
-                    <p style="margin-bottom: 8px;">This result uses AI based on visual analysis and is <b>not a medical diagnosis</b>. <b>Below 90% confidence</b> and decisions regarding medication use, <b>must be consulted with professionals.</b></p>
+                    <p style="margin-bottom: 8px;">This result uses AI based on visual analysis and is <b>not a medical diagnosis.</b> <b>Below 90% confidence</b> and decisions regarding medication use, <b>must be consulted with professionals.</b></p>
                     <hr style="border: 0; border-top: 1px solid #fcd34d; margin: 8px 0;">
                     <strong>👨‍⚕️ Professional Advice:</strong>
                     <p>Immediately consult a doctor or pharmacist if you remain unsure about the AI detection results (recommended).</p>

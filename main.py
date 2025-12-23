@@ -7,7 +7,7 @@ import base64
 
 app = FastAPI()
 
-model = YOLO("best2.pt")
+model = YOLO("best.pt")
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):

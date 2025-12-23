@@ -1,0 +1,5 @@
+- To Run: uvicorn main:app --reload
+
+- To quit terminal: ctrl + c
+
+- To hard refresh web: ctrl + shift + r
